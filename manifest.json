@@ -1,0 +1,48 @@
+{
+    "name": "Encryptor-Decryptor",
+    "id": "encryptor-decryptor",
+    "packaging_format": 1,
+    "description": {
+        "en": "Encrypts and decrypts any file using PGP",
+        "fr": "Chiffre et déchiffre n'importe quel fichier à l'aide de PGP"
+    },
+    "version": "1.0~ynh1",
+    "url": "https://prizz.github.io/Easy-File-Encryptor-Decryptor/",
+    "upstream": {
+        "license": "MIT",
+        "website": "https://prizz.github.io/Easy-File-Encryptor-Decryptor/",
+        "demo": "https://prizz.github.io/Easy-File-Encryptor-Decryptor/",
+        "code": "https://github.com/pRizz/Easy-File-Encryptor-Decryptor"
+    },
+    "license": "MIT",
+    "maintainer": {
+        "name": "",
+        "email": ""
+    },
+    "requirements": {
+        "yunohost": ">= 4.3.0"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain"
+            },
+            {
+                "name": "path",
+                "type": "path",
+                "example": "/encryptor-decryptor",
+                "default": "/encryptor-decryptor"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "default": true
+            }
+        ]
+    }
+}

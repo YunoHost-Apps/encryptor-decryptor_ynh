@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/pRizz/Easy-File-Encryptor-Decryptor/archive/c8f3fd64e93cc5fdf4336e62f16010ef7ccc3709.zip
+SOURCE_SUM=c91ba3f812e7b2f3657678e627eeaddf071e41a80c88f96438cde2484b5cf0d2
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=true
+SOURCE_EXTRACT=true

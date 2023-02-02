@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Encryptor-Decryptor for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/encryptor-decryptor.svg)](https://dash.yunohost.org/appci/app/encryptor-decryptor) ![](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/encryptor-decryptor.svg)](https://dash.yunohost.org/appci/app/encryptor-decryptor) ![Working status](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.maintain.svg)
 [![Install Encryptor-Decryptor with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=encryptor-decryptor)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -23,8 +23,8 @@ Encrypts and decrypts your files and text.
 
 ## Screenshots
 
-![](./doc/screenshots/.DS_Store)
-![](./doc/screenshots/screenshot.png)
+![Screenshot of Encryptor-Decryptor](./doc/screenshots/.DS_Store)
+![Screenshot of Encryptor-Decryptor](./doc/screenshots/screenshot.png)
 
 ## Disclaimers / important information
 
@@ -40,20 +40,21 @@ This webapp does not store or transmit your data. But to be safe, in case of mal
 
 ## Documentation and resources
 
-* Official app website: https://prizz.github.io/Easy-File-Encryptor-Decryptor/
-* Upstream app code repository: https://github.com/pRizz/Easy-File-Encryptor-Decryptor
-* YunoHost documentation for this app: https://yunohost.org/app_encryptor-decryptor
-* Report a bug: https://github.com/YunoHost-Apps/encryptor-decryptor_ynh/issues
+* Official app website: <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
+* Upstream app code repository: <https://github.com/pRizz/Easy-File-Encryptor-Decryptor>
+* YunoHost documentation for this app: <https://yunohost.org/app_encryptor-decryptor>
+* Report a bug: <https://github.com/YunoHost-Apps/encryptor-decryptor_ynh/issues>
 
 ## Developer info
 
 Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/encryptor-decryptor_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
-```
+
+``` bash
 sudo yunohost app install https://github.com/YunoHost-Apps/encryptor-decryptor_ynh/tree/testing --debug
 or
 sudo yunohost app upgrade encryptor-decryptor -u https://github.com/YunoHost-Apps/encryptor-decryptor_ynh/tree/testing --debug
 ```
 
-**More info regarding app packaging:** https://yunohost.org/packaging_apps
+**More info regarding app packaging:** <https://yunohost.org/packaging_apps>

@@ -23,7 +23,6 @@ Encrypts and decrypts your files and text.
 
 ## Screenshots
 
-![Screenshot of Encryptor-Decryptor](./doc/screenshots/.DS_Store)
 ![Screenshot of Encryptor-Decryptor](./doc/screenshots/screenshot.png)
 
 ## Disclaimers / important information

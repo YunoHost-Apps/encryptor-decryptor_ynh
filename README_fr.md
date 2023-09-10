@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # Encryptor-Decryptor pour YunoHost
 
 [![Niveau d’intégration](https://dash.yunohost.org/integration/encryptor-decryptor.svg)](https://dash.yunohost.org/appci/app/encryptor-decryptor) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.maintain.svg)
+
 [![Installer Encryptor-Decryptor avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=encryptor-decryptor)
 
 *[Read this readme in english.](./README.md)*

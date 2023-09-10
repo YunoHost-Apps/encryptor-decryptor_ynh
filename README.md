@@ -18,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Encrypts and decrypts your files and text.
 
-**Shipped version:** 1.0~ynh1
+**Shipped version:** 1.0~ynh2
 
 **Demo:** https://prizz.github.io/Easy-File-Encryptor-Decryptor/
 

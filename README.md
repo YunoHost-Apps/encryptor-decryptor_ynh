@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # Encryptor-Decryptor for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/encryptor-decryptor.svg)](https://dash.yunohost.org/appci/app/encryptor-decryptor) ![Working status](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.maintain.svg)
+
 [![Install Encryptor-Decryptor with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=encryptor-decryptor)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -17,25 +18,13 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Encrypts and decrypts your files and text.
 
-**Shipped version:** 1.0~ynh1
+**Shipped version:** 1.0~ynh2
 
 **Demo:** https://prizz.github.io/Easy-File-Encryptor-Decryptor/
 
 ## Screenshots
 
 ![Screenshot of Encryptor-Decryptor](./doc/screenshots/screenshot.png)
-
-## Disclaimers / important information
-
-# Disclaimer
-
-This webapp does not store or transmit your data. But to be safe, in case of malware, or rogue browser extensions, follow these steps:
-
-- [Download this webapp](https://github.com/pRizz/Easy-File-Encryptor-Decryptor/archive/master.zip) for offline use
-- Disconnect from the internet
-- Open this webapp (the index.html file) in incognito, or private browsing mode, with no extensions, or all extensions disabled
-- Encrypt and Decrypt
-- Quit your browser
 
 ## Documentation and resources
 

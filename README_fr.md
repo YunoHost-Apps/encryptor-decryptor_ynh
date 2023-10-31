@@ -30,7 +30,7 @@ Encrypts and decrypts your files and text.
 
 * Site officiel de l’app : <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 * Dépôt de code officiel de l’app : <https://github.com/pRizz/Easy-File-Encryptor-Decryptor>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_encryptor-decryptor>
+* YunoHost Store: <https://apps.yunohost.org/app/encryptor-decryptor>
 * Signaler un bug : <https://github.com/YunoHost-Apps/encryptor-decryptor_ynh/issues>
 
 ## Informations pour les développeurs

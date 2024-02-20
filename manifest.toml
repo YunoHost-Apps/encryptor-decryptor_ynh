@@ -41,6 +41,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://github.com/pRizz/Easy-File-Encryptor-Decryptor/archive/c8f3fd64e93cc5fdf4336e62f16010ef7ccc3709.zip"
         sha256 = "c91ba3f812e7b2f3657678e627eeaddf071e41a80c88f96438cde2484b5cf0d2"
+        autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
 

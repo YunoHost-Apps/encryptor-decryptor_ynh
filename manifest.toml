@@ -5,7 +5,7 @@ name = "Encryptor-Decryptor"
 description.en = "Encrypts and decrypts any file using PGP"
 description.fr = "Chiffre et déchiffre n'importe quel fichier à l'aide de PGP"
 
-version = "1.0~ynh2"
+version = "2017.09.03~ynh1"
 
 maintainers = []
 
@@ -39,8 +39,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/pRizz/Easy-File-Encryptor-Decryptor/archive/c8f3fd64e93cc5fdf4336e62f16010ef7ccc3709.zip"
-        sha256 = "c91ba3f812e7b2f3657678e627eeaddf071e41a80c88f96438cde2484b5cf0d2"
+        url = "https://github.com/pRizz/Easy-File-Encryptor-Decryptor/archive/c8f3fd64e93cc5fdf4336e62f16010ef7ccc3709.tar.gz"
+        sha256 = "1e411399a5598f878282ab719dca72b0653aec5cd4a43310ae304e209968be13"
         autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]

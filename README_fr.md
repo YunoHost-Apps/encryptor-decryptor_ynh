@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Encrypts and decrypts your files and text.
 
-**Version incluse :** 1.0~ynh2
+**Version incluse :** 2017.09.03~ynh1
 
 **Démo :** https://prizz.github.io/Easy-File-Encryptor-Decryptor/
 

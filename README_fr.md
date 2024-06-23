@@ -26,6 +26,10 @@ Encrypts and decrypts your files and text.
 
 ![Capture d’écran de Encryptor-Decryptor](./doc/screenshots/screenshot.png)
 
+## :red_circle: Anti-fonctionnalités
+
+- **Application non maintenue **: Ce logiciel n'est plus maintenu. Attendez-vous à ce qu'il ne fonctionne plus avec le temps, et que l'on découvre des failles de sécurité qui ne seront pas corrigées, etc.
+
 ## Documentations et ressources
 
 - Site officiel de l’app : <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>

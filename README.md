@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install Encryptor-Decryptor with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=encryptor-decryptor)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install Encryptor-Decryptor quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -25,6 +25,10 @@ Encrypts and decrypts your files and text.
 ## Screenshots
 
 ![Screenshot of Encryptor-Decryptor](./doc/screenshots/screenshot.png)
+
+## :red_circle: Antifeatures
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
 
 ## Documentation and resources
 

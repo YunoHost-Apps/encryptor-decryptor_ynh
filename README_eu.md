@@ -5,6 +5,7 @@ EZ editatu eskuz.
 
 # Encryptor-Decryptor YunoHost-erako
 
+
 [![Integrazio maila](https://dash.yunohost.org/integration/encryptor-decryptor.svg)](https://ci-apps.yunohost.org/ci/apps/encryptor-decryptor/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.maintain.svg)
 
 [![Instalatu Encryptor-Decryptor YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=encryptor-decryptor)

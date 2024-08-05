@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # Encryptor-Decryptor para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/encryptor-decryptor.svg)](https://dash.yunohost.org/appci/app/encryptor-decryptor) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/encryptor-decryptor.svg)](https://ci-apps.yunohost.org/ci/apps/encryptor-decryptor/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/encryptor-decryptor.maintain.svg)
 
 [![Instalar Encryptor-Decryptor con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=encryptor-decryptor)
 
@@ -18,7 +18,7 @@ No se debe editar a mano.
 
 Encrypts and decrypts your files and text.
 
-**Versión actual:** 2017.09.03~ynh1
+**Versión actual:** 2024.07.31~ynh1
 
 **Demo:** <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 

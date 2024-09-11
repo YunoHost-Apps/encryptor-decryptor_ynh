@@ -18,7 +18,7 @@
 
 Encrypts and decrypts your files and text.
 
-**Поставляемая версия:** 2024.07.31~ynh1
+**Поставляемая версия:** 2024.07.31~ynh2
 
 **Демо-версия:** <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 

@@ -18,7 +18,7 @@ Hij mag NIET handmatig aangepast worden.
 
 Encrypts and decrypts your files and text.
 
-**Geleverde versie:** 2024.07.31~ynh1
+**Geleverde versie:** 2024.07.31~ynh2
 
 **Demo:** <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 

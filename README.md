@@ -18,7 +18,7 @@ It shall NOT be edited by hand.
 
 Encrypts and decrypts your files and text.
 
-**Shipped version:** 2024.07.31~ynh1
+**Shipped version:** 2024.07.31~ynh2
 
 **Demo:** <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 

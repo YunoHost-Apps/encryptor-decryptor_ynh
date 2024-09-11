@@ -18,7 +18,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 Encrypts and decrypts your files and text.
 
-**Versi terkirim:** 2024.07.31~ynh1
+**Versi terkirim:** 2024.07.31~ynh2
 
 **Demo:** <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 

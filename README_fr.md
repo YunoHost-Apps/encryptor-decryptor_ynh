@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Crypte et décrypte vos fichiers et textes.
 
-**Version incluse :** 2024.07.31~ynh1
+**Version incluse :** 2024.07.31~ynh2
 
 **Démo :** <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 

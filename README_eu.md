@@ -18,7 +18,7 @@ EZ editatu eskuz.
 
 Encrypts and decrypts your files and text.
 
-**Paketatutako bertsioa:** 2024.07.31~ynh1
+**Paketatutako bertsioa:** 2024.07.31~ynh2
 
 **Demoa:** <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 

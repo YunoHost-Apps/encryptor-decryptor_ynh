@@ -18,7 +18,7 @@
 
 Encrypts and decrypts your files and text.
 
-**分发版本：** 2024.07.31~ynh1
+**分发版本：** 2024.07.31~ynh2
 
 **演示：** <https://prizz.github.io/Easy-File-Encryptor-Decryptor/>
 

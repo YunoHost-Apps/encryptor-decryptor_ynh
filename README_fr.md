@@ -16,7 +16,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Encrypts and decrypts your files and text.
+Crypte et décrypte vos fichiers et textes.
 
 **Version incluse :** 2024.07.31~ynh1
 

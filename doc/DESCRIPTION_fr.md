@@ -1,0 +1,1 @@
+Crypte et décrypte vos fichiers et textes.
